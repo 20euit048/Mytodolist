@@ -1,9 +1,9 @@
-TO-DO 
+## Functions
 
-**Features:**
-    1.Both Google and Mobile Authentication
-    2.Firebase Connectivity
-    3.CRUD operations on Categorical To-Do lists.
-
-
+- Firebase Authentication (E-mail/Password Sign-Up)
+- Signing up with phone number (OTP Included)
+- Login with Google
+- Storing login token (Keeping Logged In)
+- Adding todo's to firestore with flutter interface
+- Editing/Deleting todo's in firestore with flutter interface
 
